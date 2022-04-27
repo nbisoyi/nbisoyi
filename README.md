@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nbisoyi
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning R,SQL,Tableau
-- 💞️ I’m looking to collaborate on Data Analysis projects
+- 👋 Hi, I’m Niharika
+- 👀 I’m interested in Data Analytics Projects
+- 🌱 I’m  skilled in  R,SQL,Tableau,Excel
+- 💞️ I’m looking for an Entry level Data Analyst role
 - 📫 How to reach me -niharikabisoyi28@gmail.com
 
 <!---
